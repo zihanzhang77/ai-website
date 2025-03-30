@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/%E4%BD%A0%E7%9A%84%E4%BB%93%E5%BA%93%E5%90%8D/static/css/main.4cebacb7.css",
-    "main.js": "/%E4%BD%A0%E7%9A%84%E4%BB%93%E5%BA%93%E5%90%8D/static/js/main.fb162458.js",
-    "index.html": "/%E4%BD%A0%E7%9A%84%E4%BB%93%E5%BA%93%E5%90%8D/index.html",
-    "main.4cebacb7.css.map": "/%E4%BD%A0%E7%9A%84%E4%BB%93%E5%BA%93%E5%90%8D/static/css/main.4cebacb7.css.map",
-    "main.fb162458.js.map": "/%E4%BD%A0%E7%9A%84%E4%BB%93%E5%BA%93%E5%90%8D/static/js/main.fb162458.js.map"
+    "main.css": "/ai-website/static/css/main.4cebacb7.css",
+    "main.js": "/ai-website/static/js/main.fb162458.js",
+    "index.html": "/ai-website/index.html",
+    "main.4cebacb7.css.map": "/ai-website/static/css/main.4cebacb7.css.map",
+    "main.fb162458.js.map": "/ai-website/static/js/main.fb162458.js.map"
   },
   "entrypoints": [
     "static/css/main.4cebacb7.css",
