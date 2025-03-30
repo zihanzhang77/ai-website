@@ -56,3 +56,33 @@
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+
+.loading-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
+
+.loading-image {
+  width: 100px;
+  height: 100px;
+  background-color: #ccc;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.5; }
+  100% { opacity: 1; }
+}
+
+
+.error-message {
+  color: red;
+  text-align: center;
+  margin-top: 20px;
+}
